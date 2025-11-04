@@ -1,0 +1,7 @@
+{
+  "name": "Emergency App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
